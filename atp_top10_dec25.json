@@ -12,5 +12,61 @@
     "age": 22,
     "rating": 2,
     "prize_money": 40000000
+  },
+  {
+    "family_name": "Zverev",
+    "country": "Germany",
+    "age": 28,
+    "rating": 3,
+    "prize_money": 42000000
+  },
+  {
+    "family_name": "Medvedev",
+    "country": "Russia",
+    "age": 29,
+    "rating": 4,
+    "prize_money": 38000000
+  },
+  {
+    "family_name": "Sinner",
+    "country": "Italy",
+    "age": 24,
+    "rating": 5,
+    "prize_money": 26000000
+  },
+  {
+    "family_name": "Rublev",
+    "country": "Russia",
+    "age": 27,
+    "rating": 6,
+    "prize_money": 24000000
+  },
+  {
+    "family_name": "Fritz",
+    "country": "USA",
+    "age": 27,
+    "rating": 7,
+    "prize_money": 21000000
+  },
+  {
+    "family_name": "Ruud",
+    "country": "Norway",
+    "age": 26,
+    "rating": 8,
+    "prize_money": 19000000
+  },
+  {
+    "family_name": "Khachanov",
+    "country": "Russia",
+    "age": 29,
+    "rating": 9,
+    "prize_money": 18500000
+  },
+  {
+    "family_name": "Tiafoe",
+    "country": "USA",
+    "age": 27,
+    "rating": 10,
+    "prize_money": 17000000
   }
 ]
