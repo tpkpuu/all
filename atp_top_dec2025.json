@@ -1,0 +1,16 @@
+[
+  {
+    "family_name": "Djokovic",
+    "country": "Serbia",
+    "age": 38,
+    "rating": 1,
+    "prize_money": 185000000
+  },
+  {
+    "family_name": "Alcaraz",
+    "country": "Spain",
+    "age": 22,
+    "rating": 2,
+    "prize_money": 40000000
+  }
+]
